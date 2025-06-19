@@ -1,5 +1,5 @@
 <?php
 
 require_once __DIR__ . '/../app/autoload.php';
-require_once __DIR__ . '/../app/router.php';
-
+use App\Core\Router;
+$router = new Router();
