@@ -1,0 +1,30 @@
+{
+    "name": "gass",
+    "version": "1.0.0",
+    "description": "## **Funciones principales**",
+    "main": "index.js",
+    "type": "module",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "css": "tailwindcss -i ./public/Assets/css/tailwind.css -o ./public/Assets/css/style.css --watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Romeoteni188/GASS.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Romeoteni188/GASS/issues"
+    },
+    "homepage": "https://github.com/Romeoteni188/GASS#readme",
+    "devDependencies": {
+        "autoprefixer": "^10.4.21",
+        "postcss": "^8.5.6",
+        "tailwindcss": "3.4.5"
+    }
+}
