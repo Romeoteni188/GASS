@@ -37,3 +37,5 @@
 
 > [!CAUTION]
 > Esto puede ser riesgoso o causar pérdida de datos.
+
+instalar node
