@@ -1,6 +1,6 @@
 # Desarrollo de sistema GASS
 ## **objetivos**
-
+falta por agregar
 ## **Funciones principales**
 
 - Login y control de roles: acceso restringido por nivel (Administrador, Supervisor, Usuario).
